@@ -1,12 +1,20 @@
 {
   "name": "navbar-affix",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "description": "",
-  "keywords": [ "jquery", "affix", "jquery-plugin", "navbar", "navbar-affix" ],
+  "keywords": [
+    "jquery",
+    "affix",
+    "jquery-plugin",
+    "navbar",
+    "navbar-affix"
+  ],
   "homepage": "https://github.com/jrhenderson1988/navbar-affix",
   "license": "MIT",
   "contributors": [
-    { "name": "Jonathon Henderson" }
+    {
+      "name": "Jonathon Henderson"
+    }
   ],
   "main": "dist/navbar-affix.min.js",
   "repository": {
@@ -16,6 +24,5 @@
   "dependencies": {
     "jquery": ">=1.6"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
