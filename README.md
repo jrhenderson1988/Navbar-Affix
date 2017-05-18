@@ -4,3 +4,5 @@ A really simple jQuery plugin to make your navbar stick to the top of the window
 
 ## Usage
 
+    $('.your-navbar').navbarAffix();
+
