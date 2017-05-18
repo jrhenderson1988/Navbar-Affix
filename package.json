@@ -8,7 +8,7 @@
   "contributors": [
     { "name": "Jonathon Henderson" }
   ],
-  "main": "src/navbar-affix.js",
+  "main": "dist/navbar-affix.min.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/jrhenderson1988/navbar-affix.git"
